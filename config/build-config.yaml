@@ -1,6 +1,6 @@
 recipes:
   - name : torchvision-base
-    path : vision-0.16.2/recipe
+    path : vision-0.18.0/recipe
 
   - name : torchvision-meta
-    path : vision-0.16.2/variants
+    path : vision-0.18.0/variants
